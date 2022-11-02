@@ -49,8 +49,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
+global.sig = 'https://instagram.com/_pahilz26' // ig
+global.sgh = 'https://github.com/amelcanss/' // github
 global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
@@ -67,10 +67,10 @@ global.ppulsa2 = '-' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283813417529'
-global.nomorown = '62XXXXXXXXXXX'
-global.namebot = 'RiellXd'
-global.nameown = 'RiellXd'
+global.nomorbot = '1(641)9545802'
+global.nomorown = '6287833306677'
+global.namebot = 'Fahil-Botz V2'
+global.nameown = 'Fahil'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -85,11 +85,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282146218274', 'RiellXd', true],
-  ['6282146218274', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true]
+  ['6287833306677', 'Fahil', true],
+  ['6287833306677', 'Fahil', true],
+  ['6287833306677', 'Fahil', true],
+  ['6287833306677', 'Fahil', true],
+  ['6287833306677', 'Fahil', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Alanbotz 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Alanbotz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Rerebotz'
+global.wm = '                「 Fahil-Botz V2 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Fahil-Botz V2˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Fahil-Botz V2'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By RiellXD`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Fahil`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 RiellXd 」'
+global.author = '                「 By Fahil 」'
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
@@ -635,8 +635,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Riell X Wahyu Animek'
-global.stickauth = `Riell X wahyuGirl`
+global.stickpack = 'By Fahil'
+global.stickauth = `By Fahil`
 
 global.multiplier = 38 // The higher, The harder levelup
 
