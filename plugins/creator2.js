@@ -6,7 +6,7 @@ let name = await conn.getName(who)
 
 
 if (command == 'whmods1') {
- let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:WhatsApp;Saya Owner Rere;Bot;;Md\nFN:Saya Owner Rere Bot WhatsApp, Md\nNICKNAME:👑 Iam Riellxd\nORG:WH\nTITLE:MODS\nitem1.TEL;waid=6282146218274:+62 821-4621-8274\nitem1.X-ABLabel:📞 Nomor Owner\nitem2.URL:https://www.youtube.com/channel/RIELLBOTZ OFFC\nitem2.X-ABLabel:💬 More\nitem3.EMAIL;type=INTERNET:riellXd41@gmail.com\nitem3.X-ABLabel:💌 Mail Owner Rere BOT\nitem4.ADR:;;🇮🇩 Indonesia;;;;\nitem4.X-ABADR:💬 More\nitem4.X-ABLabel:📍 Lokasi Saya\nBDAY;value=date:🔖 KEPO LU TOD\nEND:VCARD`
+ let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:WhatsApp;Saya Owner Fahil;Bot;;Md\nFN:Saya Owner Fahil Botz WhatsApp, Md\nNICKNAME:👑 Iam Fahil\nORG:WH\nTITLE:MODS\nitem1.TEL;waid=6287833306677:+62 821-4621-8274\nitem1.X-ABLabel:📞 Nomor Owner\nitem2.URL:https://www.youtube.com/channel/RIELLBOTZ OFFC\nitem2.X-ABLabel:💬 More\nitem3.EMAIL;type=INTERNET:mfatahillah099@gmail.com\nitem3.X-ABLabel:💌 Mail Owner Fahil BOTz\nitem4.ADR:;;🇮🇩 Indonesia;;;;\nitem4.X-ABADR:💬 More\nitem4.X-ABLabel:📍 Lokasi Saya\nBDAY;value=date:🔖 KEPO LU TOD\nEND:VCARD`
 const tag_own = await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard }] }}, { quoted: fakes })
 let caption = `👋 Hai *${name} @${who.split("@")[0]}*, Nih Owner *${conn.user.name}* kak`
     await conn.sendButton(m.chat, caption, author, null, [['🎀 Sapa Owner', 'Huuu']], m, { quoted: tag_own, mentions: conn.parseMention(caption) })
