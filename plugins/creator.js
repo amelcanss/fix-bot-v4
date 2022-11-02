@@ -10,7 +10,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ✦ @${nomorown.split`@`[0]} ✦
 ------- ${nameown} -------
 📮 *Note:*
-• nomor owner RiellXd wa.me/6282146218274 sv aja gamtenk cuy🗿
+• nomor owner Fahil wa.me/6287833306677 sv aja gamtenk cuy🗿
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
@@ -19,16 +19,16 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : ʀɪᴇʟʟXᴅ
-${htjava} *✉️ Nama RL* : Rɪᴇʟ
-${htjava} *♂️ Gender* : Boys
-${htjava} *🕋 Agama* : Islam
+${htjava} *💌 Nama* : m.fatahillah
+${htjava} *✉️ Nama RL* : fahil/pahil
+${htjava} *♂️ Gender* : boys
+${htjava} *🕋 Agama* : islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 16
-${htjava} *🧮 Kelas* : 2 Sᴍᴋ
-${htjava} *🧩 Hobby* : ᴍᴏᴅɪғɪᴋᴀsɪ ᴘᴇʀᴀɴɢᴋᴀᴛ ʟᴜɴᴀᴋ
+${htjava} *🎨 Umur* : 18
+${htjava} *🧮 Kelas* : 3 esemka
+${htjava} *🧩 Hobby* : turu🗿
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, samarinda, kaltim
+${htjava} *🗺️ Tinggal* : indo, jatim, madura
 ${htjava} *❤️ Waifu* : ga suka waifu sukanya kamu🗿
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
