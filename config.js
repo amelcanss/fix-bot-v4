@@ -636,7 +636,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'By Fahil'
-global.stickauth = `By Fahil`
+global.stickauth = `ig : _pahilz26`
 
 global.multiplier = 38 // The higher, The harder levelup
 
